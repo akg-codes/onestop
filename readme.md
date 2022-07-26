@@ -5,14 +5,15 @@
 </a>
 
       
-### <h1 align="center">Hey visitor, I'm Avdhesh, you can call me AKG.
-  Can't wait to let the dots connect themselves, So creating more dots &#128539;</h1>
+### <h1 align="center">Hey visitor,👋 I'm Avdhesh, you can call me AKG.
+  </h1>
  
 #### <h3 align="center">People say i've interest in very diverse fields like finance, robotics, entrepreneurship, autonomous systems and so on. <h3/>
 #### <h2 align="center">I say, "I'm an Engineer in making &#128521;"<h2/>
 - ✌️ Currently Pursuing *`Undergrad in Mechanical from NIT Surat`*
 - 🎯 Constant Goal : *`Master of all, Jack of none (cliche but true) `*
-    
+- 👀 Can't wait to let the dots connect themselves, So creating more dots &#128539;
+- 📫 Let's have a conversation: avdhesh.kumar1221@gmail.com
 <br/>
 
  ## Languages and Tools ⚙
