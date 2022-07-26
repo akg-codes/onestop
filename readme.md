@@ -1,12 +1,9 @@
 ![How](https://forthebadge.com/images/badges/built-by-DEVELOPERS.svg)  <br/>
  ![Visitor Count](https://profile-counter.glitch.me/{akg-codes}/count.svg) <br/>
- <a href="">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="temp" width="50">
-</a>
+ 
 
       
-### <h1 align="center">Hey visitor,👋 I'm Avdhesh, you can call me AKG.
-  </h1>
+### <h1 align="center">Hey visitor,👋 I'm Avdhesh, you can call me AKG.</h1>
  
 #### <h3 align="center">People say i've interest in very diverse fields like finance, robotics, entrepreneurship, autonomous systems and so on. <h3/>
 #### <h2 align="center">I say, "I'm an Engineer in making &#128521;"<h2/>
@@ -23,20 +20,16 @@
  </p>
  
  <br/>
-
+ 
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=akg-codes&show_icons=true&theme=dracula" alt="akg-codes" />
 </p>
-
  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akg-codes&theme=dracula&layout=compact" alt="akg-codes" />
 </p> -->
 
 ## 📊 My Github stats
-
-
-  <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
-  <br/>
+<br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akg-codes&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akg-codes&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
