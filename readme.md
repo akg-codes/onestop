@@ -12,7 +12,7 @@
 - 🎯 Constant Goal : *`Master of all, Jack of none (cliche but true) `*
 - 👀 Can't wait to let the dots connect themselves, So creating more dots &#128539;
 - 📫 Let's have a conversation: avdhesh.kumar1221@gmail.com
-<a align="centre href="https://www.linkedin.com/in/avdhesh-akg/">
+<a href="https://www.linkedin.com/in/avdhesh-akg/">
     <img src="https://img.shields.io/badge/-Avdhesh-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge width="80" height="30""/>
   </a>
 
