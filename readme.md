@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Avdhesh-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge width="80" height="30""/>
   </a>
 
-  <a " href="https://twitter.com/akg_tweet">
+  <a href="https://twitter.com/akg_tweet">
     <img src="https://img.shields.io/badge/akg_tweet-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge width="80" height="30""/>
   </a>
 <br/>
