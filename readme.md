@@ -48,6 +48,6 @@
 ## 📊 My Github stats
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akg-codes&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akg-codes&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akgcode&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akgcode&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
  </p>
