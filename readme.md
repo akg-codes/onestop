@@ -9,8 +9,8 @@
 ### <h3 align="center">People say i've interest in very diverse fields like finance, robotics, entrepreneurship, autonomous systems and so on. <h3/>
 ### <h3 align="center">I say, "I'm an Engineer in making &#128521;"<h3/>
 - ✌️ Currently Pursuing *`Undergrad in Mechanical from NIT Surat`*
-- 🎯 Constant Goal : *`Master of all, Jack of none (cliche but true) `*
-- 👀 Can't wait to let the dots connect themselves, So creating more dots &#128539;
+- 🎯 Constant Goal : *`Learning is a life-long process, enjoying this journey`*
+- 👀 Can't wait to let the dots connect, So creating more dots &#128539;
 - 📫 Let's have a conversation: avdhesh.kumar1221@gmail.com
 <a href="https://www.linkedin.com/in/avdhesh-akg/">
     <img src="https://img.shields.io/badge/-Avdhesh-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge width="80" height="30""/>
