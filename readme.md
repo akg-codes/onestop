@@ -3,25 +3,38 @@
  
 
       
-### <h1 align="center">Hey visitor,👋 I'm Avdhesh,</h1> 
-<h6 align="center"> you can call me AKG.</h1>
- 
-### <h3 align="center">People say i've interest in very diverse fields like finance, robotics, entrepreneurship, autonomous systems and so on. <h3/>
-### <h3 align="center">I say, "I'm an Engineer in making &#128521;"<h3/>
-- ✌️ Currently Pursuing *`Undergrad in Mechanical from NIT Surat`*
-- 🎯 Constant Goal : *`Learning is a life-long process, enjoying this journey`*
-- 👀 Can't wait to let the dots connect, So creating more dots &#128539;
-- 📫 Let's have a conversation: avdhesh.kumar1221@gmail.com
-<a href="https://www.linkedin.com/in/avdhesh-akg/">
+### <h1 align="center">Hey visitor,👋 I'm Avdhesh </h1> 
+<h6 align="center"> you can call me AKG.</h6>
+<div  align="center" 
+<a  href="https://www.linkedin.com/in/avdhesh-akg/">
     <img src="https://img.shields.io/badge/-Avdhesh-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge width="80" height="30""/>
   </a>
 
   <a href="https://twitter.com/akg_tweet">
     <img src="https://img.shields.io/badge/akg_tweet-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge width="80" height="30""/>
   </a>
-<br/>
+  
+</div>
 
- ## hammer_and_wrench: Languages and Tools ⚙:
+<!--- 
+### <h4 align="center">People say i've interest in very diverse fields like finance, robotics, entrepreneurship, autonomous systems and so on. <h4/>
+### <h3 align="center">I say, "I'm an Engineer in making &#128521;"<h3/>
+&#128539; 
+-->
+    
+### :technologist: About Me
+                    
+I'm a **Full Stack Robotics Engineer** from :india:
+- ✌️ Currently Pursuing *`Undergrad in Mechanical from NIT Surat`*
+- :seedling: Developing skills as a *`Full stack Robotics Engineer`*
+- 🎯 Constant Goal : *`Learning is a life-long process, enjoying this journey`*
+- 👀 Can't wait for dots to connect. *`So, Building More Dots.`* 
+-  :zap: I think  *`Engineer = Developer + Entrepreneur`*
+- Wanna talk about Autonomous Systems, Robots, Finance, entrepreneurship, Valorant?
+- 📫 Let's have a conversation: avdhesh.kumar1221@gmail.com
+
+
+ ## ⚙ Languages and Tools
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS" alt="ROS" width="100" height="40"/>&nbsp;
@@ -33,9 +46,9 @@
   <!img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <! <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40"                  height="40"/>&nbsp;
 </div>
  
 <!-- <p align="center">
