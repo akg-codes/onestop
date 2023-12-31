@@ -5,7 +5,7 @@
       
 ### <h1 align="center">Hey visitor,👋 I'm Avdhesh </h1> 
 <h6 align="center"> you can call me AKG.</h6>
-<div  align="center" 
+<div  align="center"> 
 <a  href="https://www.linkedin.com/in/avdhesh-akg/">
     <img src="https://img.shields.io/badge/-Avdhesh-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge width="80" height="30""/>
   </a>
